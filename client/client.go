@@ -11,7 +11,7 @@ import (
 )
 
 var (
-	etherType uint16 = 0xcccc
+	etherType uint16 = 0x080D
 )
 
 type VLAN struct {
